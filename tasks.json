@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "description": "TODO: 1- Validate task description to be non empty string, whitespace only, and max length 200 chars",
+        "status": "todo",
+        "createAt": 1768561304863,
+        "updateAt": 1768561304863
+    },
+    {
+        "id": 2,
+        "description": "TODO: 2- handle parse and write errors",
+        "status": "done",
+        "createAt": 1768561445006,
+        "updateAt": 1768561445006
+    },
+    {
+        "id": 3,
+        "description": "TODO: 3- Use constants for status",
+        "status": "done",
+        "createAt": 1768568268309,
+        "updateAt": 1768568268309
+    },
+    {
+        "id": 4,
+        "description": "TODO: 4- update all console.logs to logMessage",
+        "status": "done",
+        "createAt": 1768568537951,
+        "updateAt": 1768568537951
+    },
+    {
+        "id": 5,
+        "description": "TODO: 5- Sort all tasks based on their status",
+        "status": "todo",
+        "createAt": 1768568756078,
+        "updateAt": 1768568756079
+    },
+    {
+        "id": 6,
+        "description": "TODO: 6- remove validation logic duplication",
+        "status": "todo",
+        "createAt": 1768569286299,
+        "updateAt": 1768569286299
+    },
+    {
+        "id": 7,
+        "description": "TODO: 7- Implement exit command with 1 flag",
+        "status": "in-progress",
+        "createAt": 1768569424862,
+        "updateAt": 1768569424862
+    },
+    {
+        "id": 8,
+        "description": "TODO: 8- Add updatedAt timestamp update",
+        "status": "todo",
+        "createAt": 1768570135121,
+        "updateAt": 1768570135121
+    },
+    {
+        "id": 9,
+        "description": "TODO: 9- Add schema validation for task objects",
+        "status": "in-progress",
+        "createAt": 1768570344864,
+        "updateAt": 1768570344864
+    },
+    {
+        "id": 10,
+        "description": "TODO: 10- Add task count summary at the end of list command",
+        "status": "done",
+        "createAt": 1768570575073,
+        "updateAt": 1768570575073
+    }
+]
